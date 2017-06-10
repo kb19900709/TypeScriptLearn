@@ -1,0 +1,1 @@
+module.exports = function (n:number) { return n * 3 };

@@ -1,0 +1,27 @@
+// https://palantir.github.io/tslint/rules/
+{
+    "defaultSeverity": "error",
+    "extends": [],
+    "formatter": "verbose",
+    "jsRules": {},
+    "rules": {
+        "no-use-before-declare": true,
+        "no-duplicate-variable": true,
+        "no-inferrable-types": [
+            true,
+            "ignore-params"
+        ],
+        "switch-default": true,
+        "member-access": true,
+        "array-type": [
+            true,
+            "array"
+        ],
+        "no-console": [
+            true,
+            "log",
+            "error"
+        ]
+    },
+    "rulesDirectory": []
+}
