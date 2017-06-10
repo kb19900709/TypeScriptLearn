@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## TypeScript Learn
 
-You can use the [editor on GitHub](https://github.com/xul4m4d93/TypeScriptLearn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 使用工具
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**IDE** [Visual Studio Code](https://code.visualstudio.com/)
 
-### Markdown
+**Main Dependencies** 
+1. [typescript](https://www.npmjs.com/package/typescript)
+2. [tslint](https://www.npmjs.com/package/tslint)
+3. [gulp](https://www.npmjs.com/package/gulp)
+4. [karma](https://www.npmjs.com/package/karma)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 初始化專案
+安裝 [Node](https://nodejs.org/en/)，使用 Visual Studio Code 開啟本專案並執行以下指令
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xul4m4d93/TypeScriptLearn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- npm install -g gulp typescript tslint karma
+- npm install
+- gulp
+```
+將執行 gulp 預設任務，輸出結果看到 `任務結束` 就算成功囉!

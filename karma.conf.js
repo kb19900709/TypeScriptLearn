@@ -12,25 +12,17 @@ module.exports = function (config) {
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
     frameworks: ['mocha', 'chai', 'sinon'],
 
-
     // list of files / patterns to load in the browser
-    // files: [
-    //   'dist/test/**/**.test.js'
-    // ],
-    // preprocess matching files before serving them to the browser
-    // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
-    // preprocessors: {
-    //   'dist/test/**/**.test.js': ['coverage']
-    // },
     files: [
       { pattern: "dist/test/**/**.test.js", included: true },
       { pattern: "node_modules/jquery/dist/jquery.min.js", included: true },
       { pattern: "node_modules/bootstrap/dist/js/bootstrap.min.js", included: true }
     ],
 
-
+    // preprocess matching files before serving them to the browser
+    // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
     preprocessors: {
-      'dist/test/**/**.test.js' : 'coverage'
+      'dist/test/**/**.test.js': 'coverage'
     },
 
 
