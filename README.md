@@ -1,18 +1,18 @@
-## TypeScript Learn
+# TypeScript Learn
 
-### 使用工具
+## 使用工具
 
-**IDE**
+**IDE:**
 [Visual Studio Code](https://code.visualstudio.com/)
 
-**Main Dependencies** 
+**Main Dependencies:** 
 1. [typescript](https://www.npmjs.com/package/typescript)
 2. [tslint](https://www.npmjs.com/package/tslint)
 3. [gulp](https://www.npmjs.com/package/gulp)
 4. [karma](https://www.npmjs.com/package/karma)
 
 
-### 初始化專案
+## 初始化專案
 1. 安裝 [Node](https://nodejs.org/en/)
 2. 安裝成功後使用 [Visual Studio Code](https://code.visualstudio.com/) 開啟本專案。
 3. 打開 [Visual Studio Code](https://code.visualstudio.com/) 的終端機，執行以下指令
