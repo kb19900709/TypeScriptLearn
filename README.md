@@ -8,7 +8,7 @@
     在開發期透過開發工具及早發現錯誤，及早修正。 <br/>
     省下的維護成本與傳統純 js 比較不言而喻。 <br/>
     尤其開發者越多，此優勢將會越明顯。 <br/>
-3.  Google Angular 團隊的官方建議開發語言，Typescript 1.6 版之後也宣布支援 React 開發。
+3.  [Angular](https://angular.io/) 團隊的官方建議開發語言，Typescript 1.6 版之後也宣布支援 [React](https://facebook.github.io/react/) 開發。
 
 
 ## 使用工具
