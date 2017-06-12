@@ -33,4 +33,4 @@
 - gulp
 ```
 4. 輸出結果看到 `任務結束` 就算成功囉!
-5. 主要學習內容在[source/js/function](https://github.com/xul4m4d93/TypeScriptLearn/tree/master/source/js/function)目錄中
+5. 主要學習內容在 [source/js/function](https://github.com/xul4m4d93/TypeScriptLearn/tree/master/source/js/function) 目錄中
