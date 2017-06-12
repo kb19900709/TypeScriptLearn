@@ -1,13 +1,13 @@
-# TypeScript Learn
-**參考書籍：**[Learning TypeScript 中文版](https://goo.gl/Okzuo7)
-**主要優點：**
-1.  TypeScript 是遵循 ECMAScript 規範的 Javascript 的超集合。
-    可透過設定組態檔，由 .ts 檔編譯出符合各種 ECMA 標準的 .js 檔。
-    我們只需要專注寫 ts，即可駕馭現在、未來。
-2.  強型別編寫方式，可以是變數、參數或是回傳值。
-    在開發期透過開發工具及早發現錯誤，及早修正。
-    省下的維護成本與傳統純 js 比較不言而喻。
-    尤其開發者越多，此優勢將會越明顯。
+# TypeScript Learn <br/>
+**參考書籍：**[Learning TypeScript 中文版](https://goo.gl/Okzuo7) <br/>
+**主要優點：** <br/>
+1.  TypeScript 是遵循 ECMAScript 規範的 Javascript 的超集合。 <br/>
+    可透過設定組態檔，由 .ts 檔編譯出符合各種 ECMA 標準的 .js 檔。 <br/>
+    我們只需要專注寫 ts，即可駕馭現在、未來。 <br/>
+2.  強型別編寫方式，可以是變數、參數或是回傳值。 <br/>
+    在開發期透過開發工具及早發現錯誤，及早修正。 <br/>
+    省下的維護成本與傳統純 js 比較不言而喻。 <br/>
+    尤其開發者越多，此優勢將會越明顯。 <br/>
 3.  Google Angular 團隊的官方建議開發語言，Typescript 1.6 版之後也宣布支援 React 開發。
 
 
